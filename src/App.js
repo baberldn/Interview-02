@@ -43,7 +43,7 @@ const RobotList = () => {
           onClick={addRobot}
           className='bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-700'
         >
-          Robot Ekle
+          Enter
         </button>
       </div>
 
